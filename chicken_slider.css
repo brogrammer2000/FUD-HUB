@@ -1,0 +1,77 @@
+body{
+    background-image: url("food_header_background.jfif");
+	width: auto !important;
+}
+
+.lheight
+{
+    line-height: 2.2em;
+}
+
+.header {
+  background-color: #ffffff;
+}
+
+.header img{ 
+    text-align: right;
+}
+
+.a{
+    text-align: right;
+}
+img#logged{
+	display: none;
+    margin-left: 40%;
+    height: 50%;
+    width: 10%;
+}
+.wrapper{
+    margin-top: 5%;
+   background-color: lightgray;
+    color: black;
+    text-align: center;
+}
+.br_recipe{
+    background-color: white;
+    color: black;
+
+}
+
+.caption {
+    padding-bottom: 45px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.caption h3 {
+
+    font-weight: bolder;
+}
+
+#ing{
+    margin-left: 1%;
+}
+img#salad{
+    width: 90%;
+
+
+}
+
+ul {
+    text-align:left;
+}
+
+#accent{
+    margin-top: 3%;
+}
+.footer{
+    text-align: center;
+    color: blanchedalmond;
+    background-color: black;
+    margin-top: 5%;
+}
+@media only screen and (min-width: 600px) {
+    #heading {
+      font-size: small;
+    }
+  }

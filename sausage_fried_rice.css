@@ -1,0 +1,105 @@
+body {
+    background-image: url("food_header_background.jfif");
+    width: auto !important;
+    overflow-x: hidden !important;
+}
+
+.container {
+    background-color: white;
+}
+
+.header img {
+    text-align: right;
+}
+
+.a {
+    text-align: right;
+}
+
+img#logged {
+    margin-left: 450px;
+    height: 60px;
+    width: 60px;
+}
+
+.wrapper {
+    margin-top: 50px;
+    background-color: lightgray;
+    color: black;
+    text-align: center;
+}
+
+.br_recipe {
+    background-color: white;
+    color: black;
+}
+
+#ing {
+    margin-left: 50px;
+}
+
+img#rice {
+    float: right;
+    margin-right: 70px;
+    width: 600px;
+    ;
+    height: auto;
+    border: 5px solid black;
+    margin-bottom: 60px;
+}
+
+img#comments {
+    float: right;
+    margin-right: 70px;
+    width: 500px;
+    ;
+    height: auto;
+}
+
+#accent {
+    margin-top: 30px;
+}
+
+.cm {
+    background-color: #cdd0d4;
+    margin: 50px;
+    padding: 50px 0 50px 40px;
+    font-size: large;
+    color: black;
+}
+
+.cm .info {
+    width: 450px;
+    height: 25px;
+    margin-bottom: 15px;
+    border: 1px solid black;
+}
+
+.checkbox, .button {
+    margin-top: 20px;
+    font-size: large;
+}
+
+.checkbox {
+    width: 25px;
+    height: 20px;
+}
+
+.box {
+    display: block;
+    background-color: white;
+    padding: 10px;
+    margin: 30px 40px 0 0;
+    border: 1px solid black;
+}
+
+.box h5:hover {
+    color: red;
+}
+
+.footer {
+    text-align: center;
+    color: blanchedalmond;
+    background-color: black;
+    margin-top: 100px;
+}

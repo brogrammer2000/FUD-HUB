@@ -1,0 +1,70 @@
+body{
+    background-image: url("food_header_background.jfif");
+	width: auto !important;
+	overflow-x:hidden !important;
+}
+.container{
+    background-color: white;
+}
+
+.header img{
+    text-align: right;
+}
+
+.a{
+    text-align: right;
+}
+img#logged{
+    margin-left: 450px;
+    height: 60px;
+    width: 60px;
+}
+
+#heading{
+    color: white;
+    background-color: red;
+    font-family: fantasy;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.wrapper{
+    flex-wrap: wrap;
+}
+#recipes{
+    text-align: center;
+}
+img#br_img{
+    height: 300px;
+    width: 350px;
+    margin-top: 20px;
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url("border.png") 30 round;
+}
+#br_coloumn{
+    background-color:lightgray;
+    margin-top: 50px;
+    color: black;
+}
+#br_coloumn a{
+  
+    color: black;
+}
+
+ 
+
+
+#br_coloumn a:hover{
+    color: red;
+    text-decoration: none;
+}
+
+ 
+
+.footer{
+    text-align: center;
+    color: blanchedalmond;
+    background-color: black;
+    margin-top: 100px;
+}

@@ -1,0 +1,26 @@
+body {
+    background-image: url(food_header_background.jpg);
+}
+
+.container {
+    background-color: white;
+}
+
+#logo {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+h1 {
+    text-align: center;
+    font-family: monospace;
+    border: thick solid gray;
+}
+
+.footer {
+    color: blanchedalmond;
+    background-color: black;
+    margin-top: 100px;
+    text-align: center;
+}
